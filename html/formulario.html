@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forms</title>
+    <script>
+        onload = () => {
+
+        }
+    </script>
+</head>
+
+<body>
+    <form action="../php/login.php" method="POST">
+        <p>
+            <label for="user">Usuario: </label>
+            <input type="text" id="user" name="user" autocomplete="off"/>
+        </p>
+        <p>
+            <label for="pw">Senha: </label>
+            <input type="password" id="pw" name="pw" />
+        </p>
+        <button type="submit" id="btn-login">Enviar</button>
+    </form>
+</body>
+
+</html>
