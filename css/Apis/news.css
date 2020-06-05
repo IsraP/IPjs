@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*  Aqui tem as regras para os componentes das noticias */
+
+.boxNoticia{
+    margin-top: 10px;
+    color: dimgray;
+    clear: both;
+}
+
+.boxNoticia img{
+    float: left;
+    margin-right: 10px;
+    width: 120px;
+}
+
+.boxNoticia .titulo{
+    font-weight: 700;
+}
+
+.boxNoticia .creditos{
+    color: red;
+}
+
+.boxNoticia .texto{
+    color: initial;
+}
