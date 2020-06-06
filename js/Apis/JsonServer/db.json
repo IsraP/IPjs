@@ -1,0 +1,15 @@
+{
+    "contatos": 
+    [
+        {
+            "id": 1,
+            "name": "Israel",
+            "occupation": "Student"
+        },
+        {
+            "id": 2,
+            "name": "Israel from the future",
+            "occupation": "Multi-bilionnaire programmer"
+        }
+    ]
+}
