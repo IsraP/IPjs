@@ -48,4 +48,3 @@ Função_Mostrar_Noticias: {
     }
 }
 
-console.log(dateFormat("2020-05-08T16:30:00Z"));

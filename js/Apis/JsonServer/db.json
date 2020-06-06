@@ -1,15 +1,19 @@
 {
-    "contatos": 
-    [
-        {
-            "id": 1,
-            "name": "Israel",
-            "occupation": "Student"
-        },
-        {
-            "id": 2,
-            "name": "Israel from the future",
-            "occupation": "Multi-bilionnaire programmer"
-        }
-    ]
+  "contatos": [
+    {
+      "id": 1,
+      "name": "Israel",
+      "occupation": "Student"
+    },
+    {
+      "id": 2,
+      "name": "Israel from the future",
+      "occupation": "Multi-bilionnaire programmer"
+    },
+    {
+      "id": 3,
+      "name": "Israel III",
+      "occupation": "Just a tester, you know... I test things."
+    }
+  ]
 }
