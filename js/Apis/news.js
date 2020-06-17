@@ -48,3 +48,5 @@ Função_Mostrar_Noticias: {
     }
 }
 
+
+// https://newsapi.org/v2/everything?q=bitcoin&apiKey=${Key}&source=globo
