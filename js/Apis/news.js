@@ -17,6 +17,10 @@ Função_Formatar_Datas: {
         let dia = date.slice(8, 10);
         return `${dia}/${mes}/${ano}`;
     }
+
+    let obj = {
+        "teste": "teste"
+    }
 }
 
 Função_Mostrar_Noticias: {
@@ -43,8 +47,6 @@ Função_Mostrar_Noticias: {
         document.getElementById("newsContainer").innerHTML = textoAdd
 
         // Preencher a div com o texto html
-
-
     }
 }
 
